@@ -44,7 +44,7 @@ public class ModConfig {
     // Flight profile defaults
     public static final int maxHeightDefault = 360;
     public static final int minHeightDefault = 180;
-    public static final int maxMaxHeight = 500;
+    public static final int maxMaxHeight = 5000;
     public static final int minMaxHeight = 0;
     public static final int maxMinHeight = 500;
     public static final int minMinHeight = 0;
